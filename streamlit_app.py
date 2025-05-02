@@ -4,7 +4,7 @@ import dropbox
 st.title("Agente de Rede Social - SrGesteira")
 
 # Token de acesso direto ao Dropbox
-DROPBOX_TOKEN = "sl.u.AFsg7vRjR9AvolulF9YtCd2IU5jt4AIhgDDDJQq2EWIPdtPIEPWBKUk_9-9DKTeBXZ0I6iZORpEDJB87bI_a-SDQcY69AZC-a-AZC-ox4Lv3VRU8DpsJhEocJhEocFHP6bcMYSWIGNayn4v4v4v4v4v5PH5PH5ERYt794lL_T8fB8fB8XN1BqU65eBsinv0BjJJJJ_3uYeo13jli7PU3eJU1gOhxg3eJ_3eoJ3eJ3eJ"
+DROPBOX_TOKEN = "sl.u.AFu9mJv4P3KXUZ0P5onJ85edi1aknNBWx1aknNBWxUC_-RoM-qzOlJpulyj M0kFnLDxUQD6sI41dmk4jiGnPWhQ8TT00akTb9otcRdqQ4dt0t1Lea_oP6mHXZ-Ma7W7n8gUGSVrfz ICws4HOcq YBCBqhtC-obqJ7obqJ7oBU97MbcU9wIcjQz8ei7FZlu_36ji EUq6Tlk6Tlk6Ln-4AJTemBCj2CVpM8XKWfcKvpM8XKWfcK4qLRFcxm-TBUO-HWtdp81mat"
 
 # Conectar ao Dropbox
 try:
